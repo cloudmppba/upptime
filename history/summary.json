@@ -22,7 +22,7 @@
     "url": "https://test.recreo.gba.gob.ar/graphql",
     "icon": "https://favicons.githubusercontent.com/test.recreo.gba.gob.ar",
     "slug": "recreo-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1603,
     "timeMonth": 1232,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   }
 ]
