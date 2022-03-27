@@ -4,10 +4,10 @@
     "url": "https://recreo.gba.gob.ar",
     "icon": "https://favicons.githubusercontent.com/recreo.gba.gob.ar",
     "slug": "recreo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
@@ -15,14 +15,16 @@
     "timeWeek": 874,
     "timeMonth": 953,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 1
+    }
   },
   {
     "name": "Recreo api test",
     "url": "https://test.recreo.gba.gob.ar/graphql",
     "icon": "https://favicons.githubusercontent.com/test.recreo.gba.gob.ar",
     "slug": "recreo-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 3103,
     "timeMonth": 1681,
     "timeYear": 1681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 0
+    }
   }
 ]
