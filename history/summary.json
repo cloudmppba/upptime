@@ -94,19 +94,19 @@
     "url": "$URL_GUIASMINERAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guias-mineras",
-    "status": "down",
-    "uptime": "19.59%",
-    "uptimeDay": "19.59%",
-    "uptimeWeek": "19.59%",
-    "uptimeMonth": "19.59%",
-    "uptimeYear": "19.59%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "status": "up",
+    "uptime": "19.52%",
+    "uptimeDay": "19.52%",
+    "uptimeWeek": "19.52%",
+    "uptimeMonth": "19.52%",
+    "uptimeYear": "19.52%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {
-      "2024-11-14": 223
+      "2024-11-14": 225
     }
   },
   {
