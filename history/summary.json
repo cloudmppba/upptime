@@ -115,19 +115,19 @@
     "url": "https://hml.rondadenegocios.mp.gba.gob.ar/api/",
     "icon": "https://icons.duckduckgo.com/ip3/hml.rondadenegocios.mp.gba.gob.ar.ico",
     "slug": "ronda-de-negocios-hml",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 851,
-    "timeDay": 846,
-    "timeWeek": 854,
-    "timeMonth": 851,
-    "timeYear": 851,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 856,
+    "timeDay": 860,
+    "timeWeek": 864,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {
-      "2024-12-04": 90
+      "2024-12-04": 132
     }
   }
 ]
