@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guias-mineras",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 833,
     "timeDay": 695,
     "timeWeek": 765,
@@ -115,17 +115,19 @@
     "url": "https://hml.rondadenegocios.mp.gba.gob.ar/api/",
     "icon": "https://icons.duckduckgo.com/ip3/hml.rondadenegocios.mp.gba.gob.ar.ico",
     "slug": "ronda-de-negocios-hml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 963,
-    "timeWeek": 896,
-    "timeMonth": 863,
-    "timeYear": 863,
-    "dailyMinutesDown": {}
+    "time": 857,
+    "timeDay": 881,
+    "timeWeek": 876,
+    "timeMonth": 857,
+    "timeYear": 857,
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   }
 ]
