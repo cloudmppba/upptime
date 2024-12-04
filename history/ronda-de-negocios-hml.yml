@@ -1,7 +1,7 @@
 url: https://hml.rondadenegocios.mp.gba.gob.ar/api/
-status: down
-code: 502
-responseTime: 890
-lastUpdated: 2024-12-04T06:59:07.615Z
+status: up
+code: 401
+responseTime: 737
+lastUpdated: 2024-12-04T07:23:42.433Z
 startTime: 2024-11-14T17:38:56.100Z
 generator: Upptime <https://github.com/upptime/upptime>
