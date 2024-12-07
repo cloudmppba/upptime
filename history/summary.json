@@ -94,7 +94,7 @@
     "url": "$URL_GUIASMINERAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guias-mineras",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
     "uptimeDay": "98.19%",
     "uptimeWeek": "99.74%",
