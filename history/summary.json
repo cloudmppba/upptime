@@ -4,18 +4,20 @@
     "url": "https://recreo.gba.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/recreo.gba.gob.ar.ico",
     "slug": "recreo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 834,
     "timeDay": 716,
     "timeWeek": 816,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 3
+    }
   },
   {
     "name": "Recreo Minio",
@@ -40,28 +42,30 @@
     "url": "https://recreo.gba.gob.ar/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/recreo.gba.gob.ar.ico",
     "slug": "recreo-api-graphql",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 174,
     "timeWeek": 194,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 2
+    }
   },
   {
     "name": "Recreo admin login",
     "url": "https://recreo.gba.gob.ar/admin/login",
     "icon": "https://icons.duckduckgo.com/ip3/recreo.gba.gob.ar.ico",
     "slug": "recreo-admin-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
@@ -69,17 +73,19 @@
     "timeWeek": 186,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 2
+    }
   },
   {
     "name": "Actiba",
     "url": "https://actiba.mp.gba.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/actiba.mp.gba.gob.ar.ico",
     "slug": "actiba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 852,
@@ -87,25 +93,28 @@
     "timeWeek": 950,
     "timeMonth": 852,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 1
+    }
   },
   {
     "name": "Guias Mineras",
     "url": "$URL_GUIASMINERAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guias-mineras",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 829,
     "timeDay": 699,
     "timeWeek": 818,
     "timeMonth": 829,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2024-12-11": 1,
       "2024-12-07": 42,
       "2024-11-21": 101,
       "2024-11-14": 223
@@ -116,9 +125,9 @@
     "url": "https://hml.rondadenegocios.mp.gba.gob.ar/api/",
     "icon": "https://icons.duckduckgo.com/ip3/hml.rondadenegocios.mp.gba.gob.ar.ico",
     "slug": "ronda-de-negocios-hml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
@@ -128,6 +137,7 @@
     "timeMonth": 843,
     "timeYear": 843,
     "dailyMinutesDown": {
+      "2024-12-11": 0,
       "2024-12-04": 159
     }
   }
